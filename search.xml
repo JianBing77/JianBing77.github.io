@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>HTML5</title>
+    <url>/2021/04/25/HTML5/</url>
+    <content><![CDATA[<h1 id="一、HTML5简介"><a href="#一、HTML5简介" class="headerlink" title="一、HTML5简介"></a>一、HTML5简介</h1><h2 id="1-什么是H5"><a href="#1-什么是H5" class="headerlink" title="1.什么是H5"></a>1.什么是H5</h2><h3 id="Hypertext-Markup-Language-超文本标记语言"><a href="#Hypertext-Markup-Language-超文本标记语言" class="headerlink" title="Hypertext Markup Language 超文本标记语言"></a>Hypertext Markup Language 超文本标记语言</h3><span id="more"></span>
+<pre><code>“超文本”就是指页面内可以包含图片、链接，甚至音乐、程序等非文字元素。
+</code></pre>
+<h2 id="2-HTML5简介"><a href="#2-HTML5简介" class="headerlink" title="2.HTML5简介"></a>2.HTML5简介</h2><h3 id="1-是HTML规范的最新版本"><a href="#1-是HTML规范的最新版本" class="headerlink" title="1)是HTML规范的最新版本"></a>1)是HTML规范的最新版本</h3><h3 id="2）一系列用来制作现代富web内容的相关技术的总称"><a href="#2）一系列用来制作现代富web内容的相关技术的总称" class="headerlink" title="2）一系列用来制作现代富web内容的相关技术的总称"></a>2）一系列用来制作现代富web内容的相关技术的总称</h3><h3 id="3）最重要的三项技术："><a href="#3）最重要的三项技术：" class="headerlink" title="3）最重要的三项技术："></a>3）最重要的三项技术：</h3><ul>
+<li>HTML5核心规范</li>
+<li>CSS(层叠样式表)</li>
+<li>JavaScript<br>  <em>HTML5核心规范定义用以标记内容的元素，并明确其含义。CSS可用于控制标记过的内容呈现在用户面前的外貌。JavaScript则可以用来操纵HTML文档的内容以及响应用户的操作，此外要想使用HTML5新增元素的一些为编程目的设计的特性也需要用到JavaScript。</em></li>
+</ul>
+<p><code>&lt;html&gt;&lt;/html&gt;</code></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!doctype html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;title&gt;测试&lt;&#x2F;title&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;body&gt;&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;head&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>引用</p>
+</blockquote>
+<p><a href="http://www.jianbing.tk/">Ming’s Blog</a><br><img src="https://i.loli.net/2021/04/25/nkEDyV3u1ef5UK2.jpg" alt="1580894443828.jpeg"></p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/04/24/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
