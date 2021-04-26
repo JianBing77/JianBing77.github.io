@@ -14,6 +14,8 @@
 
 
 <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-flash.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
@@ -308,7 +310,7 @@
       </div>
       
       <div style="display: inline-block;">
-        <img src="/images/alipay.jpg" alt="Ming 支付宝">
+        <img src="/images/alipay.png" alt="Ming 支付宝">
         <p>支付宝</p>
       </div>
 
@@ -504,8 +506,6 @@
     </span>
     <span title="站点阅读时长">1 分钟</span>
 </div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://mist.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Mist</a> 强力驱动
-  </div>
 
         
 <div class="busuanzi-count">
@@ -514,8 +514,8 @@
       <span class="post-meta-item-icon">
         <i class="fa fa-user"></i>
       </span>
-      <span class="site-uv">
-    我的第 <span class="busuanzi-value" id="busuanzi_value_site_uv"></span> 位朋友，
+      <span class="site-uv" title="我的第 undefined 位朋友，">
+        <span id="busuanzi_value_site_uv"></span>
       </span>
     </span>
     <span class="post-meta-divider">|</span>
@@ -523,9 +523,8 @@
       <span class="post-meta-item-icon">
         <i class="fa fa-eye"></i>
       </span>
-      <span class="site-pv">
-     历经 <span class="busuanzi-value" id="busuanzi_value_site_pv"></span> 次回眸才与你相遇
-
+      <span class="site-pv" title="历经 undefined 次回眸才与你相遇">
+        <span id="busuanzi_value_site_pv"></span>
       </span>
     </span>
 </div>
@@ -700,6 +699,13 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
   }, window.Valine);
 });
 </script>
+
+
+  
+<canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+ <!-- <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> -->
+<script type="text/javascript" src="/js/fireworks.js"></script>
+
 
 </body>
 </html>
