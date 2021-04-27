@@ -1200,7 +1200,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e4e021;
+  background: #530d7f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1451,6 +1451,9 @@ pre .javascript .function {
 .powered-by,
 .theme-info {
   display: inline-block;
+}
+.busuanzi-value {
+  color: #1890ff;
 }
 @-moz-keyframes iconAnimate {
   0%, 100% {
